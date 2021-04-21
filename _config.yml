@@ -22,7 +22,7 @@ tagline: A blog about machine learning and finance  # it will display as the sub
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  and focuses on text presentation !.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
