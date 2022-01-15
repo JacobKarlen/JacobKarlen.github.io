@@ -19,34 +19,33 @@ timezone: Europe/Stockholm
 # --------------------------
 title: Jacob Karlén                        # the main title
 
-tagline: A blog about machine learning and finance  # it will display as the sub-title
+tagline: A blog about software, data and finance.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation !.
+  A blog about software development, data science / data engineering and finance!.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'http://jacobkarlen.com'
 
 github:
   username: JacobKarlen             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: jacob_karlen          # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jacob Karlén
-  email: blog@jacobkarlen.com             # change to your email address
+  email: blog@jacobkarlen.com # change to your email address
+  linkedin: jacobkarlen             
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/jacob_karlen      # change to your twitter homepage
     - https://github.com/JacobKarlen      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jacobkarlen
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -83,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /../images/jacobkarlen.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+My name is Jacob Karlén and I'm a 4th year M.Sc. student in Computer Science (Civ.ing Industrial Engineering and Management). Welcome to my personal blog where I post about things that interest me and projects I'm working on. This mainly includes everything related to data, finance and the intersection in between.
