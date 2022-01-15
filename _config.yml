@@ -171,6 +171,7 @@ jekyll-archives:
   layouts:
     category: category
     tag: tag
+    projects: projects
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
