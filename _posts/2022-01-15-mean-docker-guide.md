@@ -21,7 +21,7 @@ The project can be found on github here: [https://github.com/JacobKarlen/mean-do
 7. [Connecting all the Dots by Creating a Simple Application](#connecting-all-the-dots-by-creating-a-simple-application)
 8. [Adding Production Version of docker-compose with Nginx](#adding-production-version-of-docker-compose-with-nginx)
 9. [Final Remarks](#final-remarks)
-10. [docker-compose commands](commands-for-docker-compose)
+10. [docker-compose commands](#commands-for-docker-compose)
 
 
 ## Prerequisites
