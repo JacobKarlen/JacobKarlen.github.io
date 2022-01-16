@@ -12,16 +12,16 @@ It will have live reloading on code changes on both the client and server using 
 The project can be found on github here: [https://github.com/JacobKarlen/mean-docker-project](https://github.com/JacobKarlen/mean-docker-project).
 
 # Table of Contents
-1. [Prerequisites and Getting Started](##prerequisites)
-2. [Setting up and Dockerizing the Angular client](##client)
-3. [Setting up the Node+Express Server](##server)
-4. [Dockerizing the Node+Express Server](##dockerizing-the-server)
-5. [Adding MongoDB and Orchestrating the Docker Containers with docker-compose](##orchestrating-the-containers-wth-docker-compose)
-6. [Adding a Scalable File Structure](##Creating-a-Scalable-Folder-Structure)
-7. [Connecting all the Dots by Creating a Simple Application](##Connecting-all-the-dots-by-creating-a-simple-application)
-8. [Adding Production Version of docker-compose with Nginx](##adding-production-version-of-docker-compose-with-nginx)
-9. [Final Remarks](##final-remarks)
-10. [docker-compose commands](##Commands-for-docker-compose)
+1. [Prerequisites and Getting Started](#prerequisites)
+2. [Setting up and Dockerizing the Angular client](#client)
+3. [Setting up the Node+Express Server](#server)
+4. [Dockerizing the Node+Express Server](#dockerizing-the-server)
+5. [Adding MongoDB and Orchestrating the Docker Containers with docker-compose](#orchestrating-the-containers-wth-docker-compose)
+6. [Adding a Scalable File Structure](#creating-a-scalable-folder-structure)
+7. [Connecting all the Dots by Creating a Simple Application](#connecting-all-the-dots-by-creating-a-simple-application)
+8. [Adding Production Version of docker-compose with Nginx](#adding-production-version-of-docker-compose-with-nginx)
+9. [Final Remarks](#final-remarks)
+10. [docker-compose commands](#Commands-for-docker-compose)
 
 
 ## Prerequisites
