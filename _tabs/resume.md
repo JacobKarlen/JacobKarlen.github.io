@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-icon: fas fa-project
+icon: fas fa-file
 order: 6
 ---
 Here you can find my resume. Feel free to connect with me on [linkedin](https://linkedin.com/in/jacobkarlen) or by [email](mailto:jacobkarlen99@gmail.com).
